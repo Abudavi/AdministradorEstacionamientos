@@ -1,0 +1,29 @@
+Ejercicio: estacionamiento
+
+un administrador de un estacionamiento necesita un programa que
+permita calculaqr EL TOTAL A PAGAR DE VARIOS CLIENTES que utilñizan el serrvicio.
+
+El programa debe solicitar por teclado dos datos
+*La patente del vehiculo
+*Tipo de estacionamiento
+
+Los tipos de estacionamiento disponibles son 3:
+
+*por hora(cuyo valor es de $3 usd por hora)
+
+*Media jornada(cuyo valor es de $15 usd y posee 5% de descuento)
+
+*Jornada completa (cuyo valor fijo es de $30 usd y posee un 10% de descuento)
+
+El programa debe calculaqr el monto a pagar para cada cliente en funciopn 
+del tipo de estacionamiento seleccionado. la carga de datos debe continuar hasta que el usuario 
+ingrese la palabra FIN en lugar de la patente
+
+Al finalizar el programa debe mostrar por pantalla:
+
+*La cantidad total de estacionamientos por hora
+*La cantidad total de estacionamientos por Media jornada
+*la cantidad total de estacionamientos de jornada completa
+*la suma total de ingresos en usd que hubo durante el dia
+
+
